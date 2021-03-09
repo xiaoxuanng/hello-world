@@ -1,2 +1,2 @@
 # hello-world
-Just another repo
+All truth begins with the source code
